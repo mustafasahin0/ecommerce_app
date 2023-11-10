@@ -10,7 +10,7 @@ import java.util.List;
 @Entity
 @Data
 @NoArgsConstructor
-public class Address extends BaseEntity{
+public class Address extends BaseEntity {
 
     private String name;
     private String street;
