@@ -1,4 +1,5 @@
 package com.example.enums;
 
-public class DiscountType {
+public enum DiscountType {
+    AMOUNT_BASED, RATE_BASED;
 }
