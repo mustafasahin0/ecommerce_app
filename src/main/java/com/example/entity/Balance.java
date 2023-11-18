@@ -16,5 +16,4 @@ public class Balance extends BaseEntity{
 
     @OneToOne
     private Customer customer;
-
 }

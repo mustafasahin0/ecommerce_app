@@ -8,6 +8,7 @@ import lombok.NoArgsConstructor;
 @Data
 @NoArgsConstructor
 public class Customer extends BaseEntity{
+
     private String email;
     private String firstName;
     private String lastName;
